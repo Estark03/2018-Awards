@@ -1,0 +1,25 @@
+body { 
+ Text-align: Center;   
+}
+
+h1 {
+
+     font-family: 'Fredoka One', cursive;
+}
+
+.title {
+ color: Gold;
+  font-family: 'Anton', sans-serif;
+    font-size: 50px;
+
+}
+
+.Movie {
+    font-size: 35px;
+}
+
+.Band {
+     
+    font-size: 35px;
+}   
+    
