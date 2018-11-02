@@ -1,10 +1,13 @@
 body { 
- Text-align: Center;   
+ Text-align: Center;  
+  background-color: black;
+  
 }
 
 h1 {
-
-     font-family: 'Fredoka One', cursive;
+    font-family: 'Fredoka One', cursive;
+     color: white;
+     
 }
 
 .title {
@@ -15,11 +18,31 @@ h1 {
 }
 
 .Movie {
-    font-size: 35px;
+    font-size: 20px;
+        color: blue;
+}
+
+img {
+    
+    border: solid 8px white;
+    background-color: black;
 }
 
 .Band {
      
-    font-size: 35px;
+    font-size: 20px;
+        color: blue;
 }   
     
+.Actor {
+     
+    font-size: 20px;
+        color: blue;
+}   
+
+.Artist {
+     
+    font-size: 20px;
+        color: blue;
+}   
+
