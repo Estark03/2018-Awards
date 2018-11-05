@@ -1,0 +1,54 @@
+body { 
+ Text-align: Center;  
+  background-color: black;
+  
+}
+
+            h1 {
+    font-family: 'Crimson Text', serif;
+
+     color: white;
+     
+            }
+
+.title {
+         color: Gold;
+  
+    font-size: 50px;
+
+}
+
+            .Movie {
+    font-size: 20px;
+        color: red;
+            }
+
+img {
+    
+    border: solid 8px white;
+    
+}
+
+    .Band {
+     
+    font-size: 20px;
+        color: red;
+    }   
+    
+.Actor {
+     
+    font-size: 20px;
+        color: red;
+}   
+
+        .Artist {
+     
+    font-size: 20px;
+        color: red;
+        } 
+
+.heading {
+    
+font-family: 'Lobster Two', cursive;
+
+}
